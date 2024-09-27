@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThEffectery
-- 👀 I’m interested in learning computer sceince
-- 🌱 I’m currently learning basic programing ideas
+- 👀 I’m interested in Cyber-Security and a little computer sceince
+- 🌱 I’m currently learning TryHackMe Learning paths
 - 💞️ I’m looking to collaborate on anything I would be able to help with my limited knolage 
 - 📫 How to reach me efffectery@gmail.com
 
