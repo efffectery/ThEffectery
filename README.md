@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Effectery
 - 👀 I’m interested in everything virtuous, of good report and praiseworthy.
-- 🌱 I’m currently attending school studying math.
-- 📫 How to reach me efffectery@gmail.com.
