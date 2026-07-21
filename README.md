@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Effectery
-- 👀 I’m interested in everything virtuous, of good report and praiseworthy.
+# Hi There Alaias Is Effectery.
+## I am studying Computer Engineering.
+## Right Now I am working through Neetcode.io and 100 days of python
